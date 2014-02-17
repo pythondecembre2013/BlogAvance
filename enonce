@@ -1,0 +1,5 @@
+
+Ajouter les fonctionnalités suivantes :
+- supprimer un article (seulement pour les personnes connectées) (facile voir PHP_Todo)
+- modifier un de ses articles (seulement pour les personnes connectées)
+- pouvoir poster des commentaires et les afficher
